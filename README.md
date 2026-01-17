@@ -9,7 +9,7 @@ Script python que trabaja en obtener audios y transcripciones de videos.
 
 - Angular 21
 - Rust
-- Sqlite en construcción
+- Sqlite en construcción via script de python
 
 ---
 
