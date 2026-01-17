@@ -1,9 +1,13 @@
-# Don Felipes - Buscador de videos de Felipe Avello
+# AvelloDB - Repositorio y Buscador de videos de Felipe Avello
 
-Una app web para encontrar referencias y momentos de Avello en la televisión chilena (2009-2013).
+Este es un monorepo que obtiene transcripciones de videos de Don Felipes Avello y su desarrollo web PWA en Angular 21+.
 
-Script python que trabaja en obtener audios y transcripciones de videos.
+La web 'Don Felipes' es una app web para encontrar referencias y momentos de Avello en la televisión chilena (2009-2013+).
 
+Y AvelloDB es el Script python que trabaja en obtener audios y transcripciones de videos.
+
+> [!IMPORTANT]
+> No soy dueño del material audiovisual, uso listas de videos de Youtube  que las trabajo con Whisper.
 
 ## Construido en
 
