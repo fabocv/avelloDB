@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 *.mp3
-*.csv
+data_*.csv
 
 # C extensions
 *.so

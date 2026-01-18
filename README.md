@@ -6,8 +6,8 @@ La web 'Don Felipes' es una app web para encontrar referencias y momentos de Ave
 
 Y AvelloDB es el Script python que trabaja en obtener audios y transcripciones de videos.
 
-> [!IMPORTANT]
-> No soy dueño del material audiovisual, uso listas de videos de Youtube  que las trabajo con Whisper.
+> [!IMPORTANTE]
+> No soy dueño del material audiovisual, uso listas de videos de Youtube  que las trabajo con Whisper y otras librerías.
 
 ## Construido en
 
@@ -19,6 +19,6 @@ Y AvelloDB es el Script python que trabaja en obtener audios y transcripciones d
 
 ## Fuentes:
 
-- Canal ['queraltoyo'](https://www.youtube.com/@Queraltoyo)
+- Canal ['queraltoyo' (200+ videos)](https://www.youtube.com/@Queraltoyo)
 
 #### Enero 2026 - Fabián Catalán 
